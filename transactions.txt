@@ -1,0 +1,2 @@
+ACCOUNTNUMBER              TO              MONEY
+1001                     1002               199999
